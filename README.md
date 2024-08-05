@@ -27,5 +27,5 @@ Développer une application Java pour gérer les notes des étudiants dans une �
 ## Utilisation
 1. ouvrir l'invite de commande dans le dossier  Executable du projet
 2. executer la commande 
-`java -jar GESTION_ECOLE-1.0-SNAPSHOT.jar`
+`java -jar GESTION_ECOLE.jar`
     
