@@ -5,7 +5,7 @@
 
 ## Objectif
 
-Développer une application Java pour gérer les notes des étudiants dans une école. L'application permet l'administration des classes, des étudiants et des matières, ainsi que l'enregistrement des notes, le calcul des moyennes, l'établissement des classements et la génération des bulletins de notes.
+l'objectif de ce projet est de concevoir une application Java pour gérer les notes des étudiants dans une école. L'application permet l'administration des classes, des étudiants et des matières, ainsi que l'enregistrement des notes, le calcul des moyennes, l'établissement des classements et la génération des bulletins de notes.
 
 ## Fonctionnalités
 
